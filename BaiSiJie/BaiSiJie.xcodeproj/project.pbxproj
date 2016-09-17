@@ -13,6 +13,12 @@
 		9D4721041D8D8CB6005A1B67 /* BaiSiJieTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D4721031D8D8CB6005A1B67 /* BaiSiJieTests.m */; };
 		9D47210F1D8D8CB6005A1B67 /* BaiSiJieUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D47210E1D8D8CB6005A1B67 /* BaiSiJieUITests.m */; };
 		9D4721241D8D98C2005A1B67 /* ZHRootController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D4721231D8D98C2005A1B67 /* ZHRootController.m */; };
+		9D4721431D8DA390005A1B67 /* ZHBSNavController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D4721421D8DA390005A1B67 /* ZHBSNavController.m */; };
+		9D4721461D8DB53B005A1B67 /* ZHEssenceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D4721451D8DB53B005A1B67 /* ZHEssenceViewController.m */; };
+		9D4721491D8DB567005A1B67 /* ZHNewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D4721481D8DB567005A1B67 /* ZHNewViewController.m */; };
+		9D47214C1D8DB5A6005A1B67 /* ZHMeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D47214B1D8DB5A6005A1B67 /* ZHMeViewController.m */; };
+		9D47214F1D8DB5CF005A1B67 /* ZHFriendTrendController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D47214E1D8DB5CF005A1B67 /* ZHFriendTrendController.m */; };
+		9D4721521D8DB7A3005A1B67 /* UIImage+ZH.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D4721511D8DB7A3005A1B67 /* UIImage+ZH.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,18 @@
 		9D4721101D8D8CB6005A1B67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D4721221D8D98C2005A1B67 /* ZHRootController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHRootController.h; sourceTree = "<group>"; };
 		9D4721231D8D98C2005A1B67 /* ZHRootController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHRootController.m; sourceTree = "<group>"; };
+		9D4721411D8DA390005A1B67 /* ZHBSNavController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHBSNavController.h; sourceTree = "<group>"; };
+		9D4721421D8DA390005A1B67 /* ZHBSNavController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHBSNavController.m; sourceTree = "<group>"; };
+		9D4721441D8DB53B005A1B67 /* ZHEssenceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHEssenceViewController.h; sourceTree = "<group>"; };
+		9D4721451D8DB53B005A1B67 /* ZHEssenceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHEssenceViewController.m; sourceTree = "<group>"; };
+		9D4721471D8DB567005A1B67 /* ZHNewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHNewViewController.h; sourceTree = "<group>"; };
+		9D4721481D8DB567005A1B67 /* ZHNewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHNewViewController.m; sourceTree = "<group>"; };
+		9D47214A1D8DB5A6005A1B67 /* ZHMeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHMeViewController.h; sourceTree = "<group>"; };
+		9D47214B1D8DB5A6005A1B67 /* ZHMeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHMeViewController.m; sourceTree = "<group>"; };
+		9D47214D1D8DB5CF005A1B67 /* ZHFriendTrendController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHFriendTrendController.h; sourceTree = "<group>"; };
+		9D47214E1D8DB5CF005A1B67 /* ZHFriendTrendController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHFriendTrendController.m; sourceTree = "<group>"; };
+		9D4721501D8DB7A3005A1B67 /* UIImage+ZH.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ZH.h"; sourceTree = "<group>"; };
+		9D4721511D8DB7A3005A1B67 /* UIImage+ZH.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ZH.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +164,8 @@
 				9D4720ED1D8D8CB6005A1B67 /* AppDelegate.m */,
 				9D4721221D8D98C2005A1B67 /* ZHRootController.h */,
 				9D4721231D8D98C2005A1B67 /* ZHRootController.m */,
+				9D4721411D8DA390005A1B67 /* ZHBSNavController.h */,
+				9D4721421D8DA390005A1B67 /* ZHBSNavController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -171,6 +191,8 @@
 		9D47211F1D8D8DE0005A1B67 /* Libs */ = {
 			isa = PBXGroup;
 			children = (
+				9D4721501D8DB7A3005A1B67 /* UIImage+ZH.h */,
+				9D4721511D8DB7A3005A1B67 /* UIImage+ZH.m */,
 			);
 			path = Libs;
 			sourceTree = "<group>";
@@ -233,6 +255,8 @@
 		9D47212A1D8D9D87005A1B67 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				9D4721441D8DB53B005A1B67 /* ZHEssenceViewController.h */,
+				9D4721451D8DB53B005A1B67 /* ZHEssenceViewController.m */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -264,6 +288,8 @@
 		9D47212E1D8D9D87005A1B67 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				9D47214D1D8DB5CF005A1B67 /* ZHFriendTrendController.h */,
+				9D47214E1D8DB5CF005A1B67 /* ZHFriendTrendController.m */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -326,6 +352,8 @@
 		9D4721361D8D9D87005A1B67 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				9D47214A1D8DB5A6005A1B67 /* ZHMeViewController.h */,
+				9D47214B1D8DB5A6005A1B67 /* ZHMeViewController.m */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -357,6 +385,8 @@
 		9D47213A1D8D9D87005A1B67 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				9D4721471D8DB567005A1B67 /* ZHNewViewController.h */,
+				9D4721481D8DB567005A1B67 /* ZHNewViewController.m */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -540,7 +570,13 @@
 			files = (
 				9D4720EE1D8D8CB6005A1B67 /* AppDelegate.m in Sources */,
 				9D4721241D8D98C2005A1B67 /* ZHRootController.m in Sources */,
+				9D4721431D8DA390005A1B67 /* ZHBSNavController.m in Sources */,
+				9D47214C1D8DB5A6005A1B67 /* ZHMeViewController.m in Sources */,
+				9D4721521D8DB7A3005A1B67 /* UIImage+ZH.m in Sources */,
 				9D4720EB1D8D8CB6005A1B67 /* main.m in Sources */,
+				9D4721461D8DB53B005A1B67 /* ZHEssenceViewController.m in Sources */,
+				9D4721491D8DB567005A1B67 /* ZHNewViewController.m in Sources */,
+				9D47214F1D8DB5CF005A1B67 /* ZHFriendTrendController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
